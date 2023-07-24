@@ -26,7 +26,7 @@ _La instalación se ejecuta de manera predeterminada de forma práctica como nue
 
 - Se creará un usuario y contraseña para BD con las credenciales compartidas.
 
-- El archivo **_backup.sql_** deberá ser restaurado en su manejador de BD local (el método tradicional es crear primero la BD llamada drupal_dbu y restaurar en esta el archivo .sql)
+- El archivo **_drupal_test.sql_** deberá ser restaurado en su manejador de BD local (el método tradicional es crear primero la BD llamada drupal_test y restaurar en esta el archivo .sql)
 
 - Acceder a la url del servidor donde se alojó el proyecto, por ejempo _http://localhost:8888/drupal-test/_
 
