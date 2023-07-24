@@ -1,4 +1,4 @@
-# DEPENDENCY INYECTION | SPRING BOOT EJEMPLO
+# DRUPAL TEST | PRUEBA TÉCNICA
 
 _Documentación de instalación de proyecto DRUPAL TEST._
 - Distro: 9.x.x
